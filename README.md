@@ -1,0 +1,2 @@
+# car_price_eda
+This project explores cleaned car price data to uncover trends and insights using Python. Through visualizations, statistics, and clear code, it highlights price distributions, feature relationships, and patterns across variables. Every step is documented for easy understanding and reproducibility, making this repo a practical resource for anyone learning about data analysis and visualization.
