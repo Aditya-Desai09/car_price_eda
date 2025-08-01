@@ -36,4 +36,4 @@ All steps, code, and commentary are in the notebook.
 
 ## Contact
 
-For feedback or collaboration, reach out via [your GitHub or email].
+For feedback or collaboration, reach out via https://github.com/Aditya-Desai09 .
